@@ -64,6 +64,12 @@ While I was a student and throw each courses that I have taken, with the 4th and
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+   <img src="./icons/numpy.svg" width="36" height="36" alt="Numpy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+   <img src="./icons/pandas.svg" width="36" height="36" alt="Pandas" />
+  </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   </a>
