@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Elias Shallouf
 ======================================================================================================================================
 
-Full Stack Android Engineer | Java & Kotlin Developer
------------------------------------------------------
+Full-Stack Engineer | Java & Kotlin Specialist | Creator of Viola ORM
+----------------------------------------------------------------------
 
-I am a Full Stack Android/Java/Kotlin engineer with 5+ years experience crafting elegant and performant mobile apps.<br/>
-I am proficient in Jetpack Compose, Kotlin, Java, Android Lifecycle, Reactive Programming, MVVM, Flow, and more.<br/>
-While I was a student and throw each courses that I have taken, with the 4th and graduation year projects, I had gained experience in other fields like UI/UX design, Back-end development with (Java Spring Boot, Kotlin Ktor, Node.js) and team leading.
+I'm a versatile Full-Stack Engineer with a passion for building high-performance systems from the ground up. My expertise spans the entire development lifecycle, from UI/UX design, modern Android app and SPA front-end development to robust backend micro-services and database architecture. My deep understanding of core Java and Software Engineering principles is demonstrated by my master's thesis project: building a complete Java ORM from scratch, **[Viola ORM](https://eliasmshallouf.github.io/ViolaORMDocs)**.
 
 *   🎓  I'm a MSc in Software Engineering graduand
 *   🌍  I'm based in Syria and available to work remote
@@ -14,6 +12,21 @@ While I was a student and throw each courses that I have taken, with the 4th and
 *   🧠  I'm learning Kotlin Multiplatform and Compose HTML (Kobweb)
 *   🤝  I'm open to collaborating on any project that have built with java or kotlin and have a beautiful UI design :)
 *   ⚡  I am also called Mr.Java ;)
+
+### Viola ORM
+
+<a href="https://eliasmshallouf.github.io/ViolaORMDocs/" target="_blank" rel="noreferrer">
+  <img src="./icons/viola.svg" width="36" height="36" alt="Viola ORM" align="left" style="margin-right: 8px;"/>
+</a>
+
+As a testament to my passion for Java, I developed **Viola ORM**, a lightweight, simple, and powerful Object-Relational Mapping library. Born from my master's thesis, it simplifies database interactions by mapping Java objects to tables, allowing developers to work with databases using familiar Java paradigms.
+
+Key Features:
+*   **Lightweight & Simple:** Easy to integrate and use.
+*   **Annotation-Driven:** Clean, declarative mapping and auto-generation of classes at compile-time.
+*   **Powerful Query Builder:** Fluent API for building complex queries.
+*   **Connection Pooling:** Efficient database connection management.
+
 
 ### Stack
 
